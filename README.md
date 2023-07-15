@@ -1,9 +1,9 @@
 # HR-Employee Information Dashboard
 
 # Data Used
-Dataset - HR data of employees with over 22,000 rows from 2000-2020
-Data cleaning & analysis - MySQL Workbench
-Data visualization - PowerBI
+1. Dataset - HR data of employees with over 22,000 rows from 2000-2020
+2. Data cleaning & analysis - MySQL Workbench
+3. Data visualization - PowerBI
 
 # Questions
 1. What is the gender breakdown of employees in the company?
